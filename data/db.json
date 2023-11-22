@@ -1,3 +1,8 @@
 {
-  "posts": [{}]
+  "posts": [{
+     "id": 1,
+      "title": "First post",
+      "text": "This is my first post",
+      "date_time": "11 22, 2023 14:34"
+  }]
 }
