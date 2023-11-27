@@ -2,7 +2,7 @@
   "posts": [{
     "id": 1,
     "title": "First post",
-    "text":"It is my first post",
+    "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores similique culpa dolor eos dolorem eum quas esse optio rerum aspernatur.",
     "date_time":"11, 22, 2023, 14:51" 
   }]
 }
